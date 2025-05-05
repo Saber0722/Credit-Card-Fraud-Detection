@@ -68,7 +68,7 @@ Credit_Card_Fraud_Detection/
 
 For an interactive exploration of the analysis and results, access the Streamlit application:
 
-👉 [Launch the Streamlit App](#)
+👉 [Launch the Streamlit App](https://huggingface.co/spaces/Saber-0722/Credit-Card-Fraud-Detection)
 
 ## Contributing
 
