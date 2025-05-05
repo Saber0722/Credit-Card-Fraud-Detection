@@ -29,8 +29,8 @@ Credit_Card_Fraud_Detection/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Saber0722/NeuroNexus.git
-   cd NeuroNexus
+   git clone https://github.com/Saber0722/Credit_Card_Fraud_Detection.git
+   cd Credit_Card_Fraud_Detection
    ```
 
 2. **Create a virtual environment (optional but recommended):**
