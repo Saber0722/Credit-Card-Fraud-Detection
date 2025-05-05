@@ -15,7 +15,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 ## Repository Structure
 
 ```
-NeuroNexus/
+Credit_Card_Fraud_Detection/
 ├── data/                # Raw and processed datasets
 ├── notebooks/           # Jupyter notebooks for EDA, data preprocessing and model development
 ├── outputs/             # Generated outputs such as figures and model predictions
